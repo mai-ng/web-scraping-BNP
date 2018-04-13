@@ -1,0 +1,60 @@
+
+  {
+    "accounts": [
+    {
+      "accountName": "COMPTE CHÈQUE THIERRY",
+      "accountNumber": "****0954",
+      "actualAmount": "1.156,50 €",
+      "comingAmount": "-315,60 €"
+    },
+    {
+      "accountName": "COMPTE JOINT JEANNE ET THIERRY ",
+      "accountNumber": "****6497",
+      "actualAmount": "2.354,00 €",
+      "comingAmount": "-219,35 €"
+    },
+    {
+      "accountName": "LIVRET DÉV. DURABLE ",
+      "accountNumber": "****8891",
+      "actualAmount": "5.798,25 €",
+      "comingAmount": "0 €"
+    },
+    {
+      "accountName": "LIVRET A ",
+      "accountNumber": "****2628",
+      "actualAmount": "6.769,20 €",
+      "comingAmount": "0 €"
+    },
+    {
+      "accountName": "PEL ",
+      "accountNumber": "****4740",
+      "actualAmount": "8.172,77 €",
+      "comingAmount": "0 €"
+    },
+    {
+      "accountName": "PORTEFEUILLE TITRES ",
+      "accountNumber": "****123456789",
+      "actualAmount": "0,00 €",
+      "comingAmount": "0 €"
+    },
+    {
+      "accountName": "ASSURANCE VIE ",
+      "accountNumber": "****0001",
+      "actualAmount": "16.414,24 €",
+      "comingAmount": "0 €"
+    },
+    {
+      "accountName": "VOITURE ",
+      "accountNumber": "****4449",
+      "actualAmount": "-33.575,15 €",
+      "comingAmount": "0 €"
+    },
+    {
+      "accountName": "CRÉDIT IMMOBILIER ",
+      "accountNumber": "****3044",
+      "actualAmount": "-153.857,59 €",
+      "comingAmount": "0 €"
+    }
+  ],
+  "name": "Démo"
+}
