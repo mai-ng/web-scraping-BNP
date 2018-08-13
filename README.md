@@ -1,4 +1,4 @@
-# webscrapingBNP
+# Web Scraping BNP
 Web Scraping BNP Paris Demo website for data of an account 
 
 Goal
